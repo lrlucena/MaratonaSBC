@@ -1,5 +1,5 @@
 # Projeto desativado
-## Veja https://github.com/potigol/URI-Potigol/blob/master/maratona.md
+## Veja https://potigol.github.io/uoj-potigol/competicoes/maratona/
 
 # Maratona de Programação da SBC
 
